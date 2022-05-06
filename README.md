@@ -26,6 +26,10 @@ If you are server, then run `make game`.
 
 Now run `./game S` to make client-hosting-server.
 
+If you are a client then run `make game`.
+
+Run `./game C <IP ADDRESS>`
+
 
    
     
