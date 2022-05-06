@@ -1,4 +1,4 @@
-**# Maze Runner**
+** # Maze Runner**
 There are a variety of features in this two-player maze game, including randomly generated map and rendering.
 
 
