@@ -20,6 +20,12 @@ Run `$sudo apt-get install libsdl2-mixer-dev `to install SDL2_mixer
    
 # Instructions to play game
 
+To play game you need to run following command in terminal:
+
+If you are server, then run `make game`. 
+
+Now run `./game S` to make client-hosting-server.
+
 
    
     
