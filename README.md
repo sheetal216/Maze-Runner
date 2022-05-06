@@ -10,12 +10,12 @@ Instructions to install these libraries:
  
       Run `$sudo apt-get install libsdl2-2.0 `
   
- Run `$sudo apt-get install libsdl2-dev` to install SDL2
+      Run `$sudo apt-get install libsdl2-dev` to install SDL2
 
-   Run `$sudo apt-get install libsdl2-image-dev` to install SDL2_image
+      Run `$sudo apt-get install libsdl2-image-dev` to install SDL2_image
 
-   Run `$sudo apt-get install libsdl2-ttf `to install SDL2_ttf
+      Run `$sudo apt-get install libsdl2-ttf `to install SDL2_ttf
 
-   Run `$sudo apt-get install libsdl2-mixer-dev `to install SDL2_mixer
+      Run `$sudo apt-get install libsdl2-mixer-dev `to install SDL2_mixer
    
     
