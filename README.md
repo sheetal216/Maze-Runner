@@ -35,18 +35,18 @@ To play game you need to run following command in terminal:
 # Links of online resources used
 
 1. For SDL: We have use following Links,
-2. 
-(a) [https://lazyfoo.net/tutorials/SDL/index.php](https://lazyfoo.net/tutorials/SDL/index.php) , 
 
-(b) [https://galdin.dev/blog/getting-started-with-sdl/](https://galdin.dev/blog/getting-started-with-sdl/), 
+  (a) [https://lazyfoo.net/tutorials/SDL/index.php](https://lazyfoo.net/tutorials/SDL/index.php) , 
 
-(c) [http://www.sdltutorials.com/sdl-net-part-1-user-tutorial](http://www.sdltutorials.com/sdl-net-part-1-user-tutorial), 
+  (b) [https://galdin.dev/blog/getting-started-with-sdl/](https://galdin.dev/blog/getting-started-with-sdl/), 
 
-(d) [http://gamedevgeek.com/tutorials/getting-started-with-sdl/](http://gamedevgeek.com/tutorials/getting-started-with-sdl/)
+  (c) [http://www.sdltutorials.com/sdl-net-part-1-user-tutorial](http://www.sdltutorials.com/sdl-net-part-1-user-tutorial), 
+
+  (d) [http://gamedevgeek.com/tutorials/getting-started-with-sdl/](http://gamedevgeek.com/tutorials/getting-started-with-sdl/)
 
 2. For socket programming
 
-[https://www.geeksforgeeks.org/udp-client-server-using-connect-c-implementation/?ref=lbp](https://www.geeksforgeeks.org/udp-client-server-using-connect-c-implementation/?ref=lbp)
+  (a) [https://www.geeksforgeeks.org/udp-client-server-using-connect-c-implementation/?ref=lbp](https://www.geeksforgeeks.org/udp-client-server-using-connect-c-implementation/?ref=lbp)
 
 
    
