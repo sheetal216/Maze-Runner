@@ -46,8 +46,9 @@ To play game you need to run following command in terminal:
 
 2. For socket programming
 
-     (a) [https://www.geeksforgeeks.org/udp-client-server](https://www.geeksforgeeks.org/udp-client-server-using-          connect-c-implementation/?ref=lbp)
-     (b) 
+     (a) [https://www.geeksforgeeks.org/udp-client-server](https://www.geeksforgeeks.org/udp-client-server-using-connect-c-implementation/?ref=lbp)
+     
+     (b) [https://www.binarytides.com/socket-programming-c-linux-tutorial/](https://www.binarytides.com/socket-programming-c-linux-tutorial/) 
 
 
    
