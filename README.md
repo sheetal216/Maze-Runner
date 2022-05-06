@@ -26,7 +26,7 @@ To play game you need to run following command in terminal:
 
 2. Now run `./game S` to make client-hosting-server.
 
-3. If you are a client then run `make game`.
+3. If you are a client then run `make game` after server run command.
 
 4. Run `./game C <IP ADDRESS>`
 
