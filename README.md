@@ -18,5 +18,8 @@ Run `$sudo apt-get install libsdl2-ttf `to install SDL2_ttf
 
 Run `$sudo apt-get install libsdl2-mixer-dev `to install SDL2_mixer
    
+# Instructions to play game
+
+
    
     
