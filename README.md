@@ -10,7 +10,7 @@ This program requires SDL2.h, SDL2_image.h, SDL2_ttf.h and SDL2_mixer.h.
 
  1. Run `$sudo apt-get install libsdl2-2.0 `   
  
- 2.Run `$sudo apt-get install libsdl2-dev` to install SDL2
+ 2. Run `$sudo apt-get install libsdl2-dev` to install SDL2
  
 3. Run `$sudo apt-get install libsdl2-image-dev` to install SDL2_image
 
