@@ -18,7 +18,7 @@ Ubuntu Linux Environment
  
 3. Run `$sudo apt-get install libsdl2-image-dev` to install SDL2_image
 
-4. Run `$sudo apt-get install libsdl2-ttf `to install SDL2_ttf
+4. Run `$sudo apt-get install libsdl2-ttf -dev`to install SDL2_ttf
 
 5. Run `$sudo apt-get install libsdl2-mixer-dev `to install SDL2_mixer
    
