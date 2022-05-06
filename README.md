@@ -34,7 +34,14 @@ To play game you need to run following command in terminal:
 
 # Links of online resources used
 
-1. For SDL: We use  [LazzyFoo.Net](https://lazyfoo.net/tutorials/SDL/index.php) , [SDL](https://galdin.dev/blog/getting-started-with-sdl/), [SDL_Net](http://www.sdltutorials.com/sdl-net-part-1-user-tutorial)
+1. For SDL: We have use following Links,
+(a) [LazzyFoo.Net](https://lazyfoo.net/tutorials/SDL/index.php) , 
+
+(b) [SDL](https://galdin.dev/blog/getting-started-with-sdl/), 
+
+(c) [SDL_Net](http://www.sdltutorials.com/sdl-net-part-1-user-tutorial), 
+
+(d) [SDL Tutorial](http://gamedevgeek.com/tutorials/getting-started-with-sdl/)
 
 2. For socket programming [UDP Server-Client](https://www.geeksforgeeks.org/udp-client-server-using-connect-c-implementation/?ref=lbp)
 
