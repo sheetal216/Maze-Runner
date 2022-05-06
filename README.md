@@ -32,7 +32,9 @@ To play game you need to run following command in terminal:
 
 5. **First Run the code from server side**
 
-# Links 
+# Links of online resources used
+
+1. For socket programming [UDP Server-Client](https://www.geeksforgeeks.org/udp-client-server-using-connect-c-implementation/?ref=lbp)
 
 
    
