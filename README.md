@@ -8,27 +8,27 @@ This program requires SDL2.h, SDL2_image.h, SDL2_ttf.h and SDL2_mixer.h.
 
 ## Installation of these libraries:
 
- Run `$sudo apt-get install libsdl2-2.0 `
-  
- Run `$sudo apt-get install libsdl2-dev` to install SDL2
+ 1. Run `$sudo apt-get install libsdl2-2.0 `   
  
-Run `$sudo apt-get install libsdl2-image-dev` to install SDL2_image
+ 2.Run `$sudo apt-get install libsdl2-dev` to install SDL2
+ 
+3. Run `$sudo apt-get install libsdl2-image-dev` to install SDL2_image
 
-Run `$sudo apt-get install libsdl2-ttf `to install SDL2_ttf
+4. Run `$sudo apt-get install libsdl2-ttf `to install SDL2_ttf
 
-Run `$sudo apt-get install libsdl2-mixer-dev `to install SDL2_mixer
+5. Run `$sudo apt-get install libsdl2-mixer-dev `to install SDL2_mixer
    
 # Instructions to play game
 
 To play game you need to run following command in terminal:
 
-If you are server, then run `make game`. 
+1. If you are server, then run `make game`. 
 
-Now run `./game S` to make client-hosting-server.
+2. Now run `./game S` to make client-hosting-server.
 
-If you are a client then run `make game`.
+3. If you are a client then run `make game`.
 
-Run `./game C <IP ADDRESS>`
+4. Run `./game C <IP ADDRESS>`
 
 
    
