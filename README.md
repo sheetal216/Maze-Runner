@@ -6,6 +6,10 @@ There are a variety of features in this two-player maze game, including randomly
 
 This program requires SDL2.h, SDL2_image.h, SDL2_ttf.h and SDL2_mixer.h.
 
+# Operating System
+
+Ubuntu Linux Environment
+
 ## Installation of these libraries:
 
  1. Run `$sudo apt-get install libsdl2-2.0 `   
