@@ -1,7 +1,7 @@
-#Maze Runner
+##Maze Runner
 There are a variety of features in this two-player maze game, including randomly generated map and rendering.
 
-#Libraries Required
+##Libraries Required
 This program requires SDL2.h, SDL2_image.h, SDL2_ttf.h and SDL2_mixer.h.
 Instructions to install these libraries:
    Run $sudo apt-get install libsdl2-2.0 
