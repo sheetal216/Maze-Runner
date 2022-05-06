@@ -22,13 +22,17 @@ This program requires SDL2.h, SDL2_image.h, SDL2_ttf.h and SDL2_mixer.h.
 
 To play game you need to run following command in terminal:
 
-1. If you are server, then run `make game`. 
+1. If you are server, then compile by `make game`. 
 
-2. Now run `./game S` to make client-hosting-server.
+2. Now compile `./game S` to make client-hosting-server.
 
-3. If you are a client then run `make game` after server run command.
+3. If you are a client then compile`make game` after server run command.
 
 4. Run `./game C <IP ADDRESS>`
+
+5. **First Run the code from server side**
+
+# Links 
 
 
    
